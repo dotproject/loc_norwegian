@@ -19,7 +19,7 @@
 "P"=>"P",
 "Parent Task"=>"Oppgave under",
 "Progress"=>"Framdrift",
-"Recurs"=>"Recurs",
+"Recurs"=>"Gjentagende",
 "Remind Me"=>"Påmindelse",
 "Should have started"=>"Skulle ha startet",
 "Start Date"=>"Start dato",
