@@ -1,7 +1,7 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"- New Item -"=>"- ny -",
+"- New Item -"=>"- oppret -",
 "About"=>"Om",
 "Active Projects"=>"Aktive Prosjekter",
 "Add"=>"Legg til",
@@ -36,7 +36,7 @@
 "Email"=>"Epost",
 "Ends"=>"Slutt",
 "Event"=>"Hendelse",
-"Fax"=>"Fax",
+"Fax"=>"Faks",
 "File"=>"Fil",
 "Files"=>"Filer",
 "First Name"=>"Fornavn",
@@ -93,7 +93,7 @@
 "Today"=>"I dag",
 "Total Hours"=>"Timer totalt",
 "Type"=>"Type",
-"URL"=>"URL",
+"URL"=>"Hjemmeside",
 "User Admin"=>"Brukeradministrasjon",
 "Username"=>"Brukernavn",
 "Users"=>"Brukere",
