@@ -1,7 +1,7 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"- New Item -"=>"",
+"- New Item -"=>"- ny -",
 "About"=>"Om",
 "Active Projects"=>"Aktive Prosjekter",
 "Add"=>"Legg til",
