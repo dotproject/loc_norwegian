@@ -21,7 +21,7 @@
 "For period"=>"For periode",
 "Forum Name"=>"Forum navn",
 "From"=>"Fra",
-"Gantt Chart"=>"diagram",
+"Gantt Chart"=>"Diagram",
 "Hours"=>"Timer",
 "Ignore 0 hours"=>"Ignorer 0 timer",
 "Last Post"=>"Siste innlegg",
