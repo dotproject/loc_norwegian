@@ -102,7 +102,7 @@
 "View PDF File"=>"Vis PDF fil",
 "Welcome"=>"Velkommen",
 "Yes"=>"Ja",
-"Zip"=>"Zip",
+"Zip"=>"Postnummer",
 "add"=>"legg til",
 "added"=>"lagt til",
 "back"=>"tilbake",
