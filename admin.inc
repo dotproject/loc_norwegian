@@ -36,7 +36,7 @@
 "Supervisor"=>"Veileder",
 "User"=>"Bruker",
 "User Management"=>"Bruker Administrasjon",
-"User Type"=>"Bruer Type",
+"User Type"=>"Bruker Type",
 "View User"=>"Vis bruker",
 "add user"=>"ny bruker",
 "adminInvalidBirthday"=>"",
